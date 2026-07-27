@@ -1,6 +1,6 @@
 # Unity-MCP Skill  Claude Code
 
-Unity Editorünü Unity cli yardımıyla mcp üzerinden Claude Code ile kontrol edebilmek için bir Claude Code skill:
+Unity Editorünü Unity CLI yardımıyla MCP üzerinden Claude Code ile kontrol edebilmek için bir Claude Code skill
 kurulum, bağlanma ve arıza giderme rehberi (Unity CLI + Pipeline paketi + MCP
 bağlantısı). Skill devreye girince Claude code sahneyi yeniden kurabilir, Play modunda
 ölçüm/ekran görüntüsü alabilir, konsolu okuyabilir ve MCP bağlantısını
